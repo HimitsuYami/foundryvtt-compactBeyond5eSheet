@@ -20,7 +20,7 @@ Shamlessly taking ideas (and some code) from both the [DnDBeyond character sheet
 Module JSON:
 
 ```
-https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/releases/latest/download/module.json
+https://github.com/HimitsuYami/foundryvtt-compactBeyond5eSheet/releases/latest/download/module.json
 ```
 
 ### Dependencies
